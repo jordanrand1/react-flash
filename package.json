@@ -9,5 +9,10 @@
     "url": "https://github.com/jordanrand1/react-flash"
   },
   "author": "jordanrand1",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.0"
+  }
 }
